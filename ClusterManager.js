@@ -96,7 +96,7 @@ class ClusterManager {
         this.spawning = false;
 
         const {
-            token = '',
+            token = 'MTM0NTY2NTE1ODQyMDEwNzMwNg.GddKLd.Cx8PH5sGS3pKEg_g4VTB7AEOEm_TPN5HWkWZ5o',
             totalShards = 'auto',
             shards = 'auto',
             firstClusterID = 'auto',
